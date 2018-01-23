@@ -2,7 +2,7 @@
 
 Product management, design, development.
 
-Feel free to create a new pull request, or open an issue to add resources.
+Feel free to [create a new pull request](https://github.com/daninfpj/awesome-product-process/compare), or [open an issue](https://github.com/daninfpj/awesome-product-process/issues/new) to add resources.
 
 
 ## 3M
