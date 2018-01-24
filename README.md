@@ -8,7 +8,7 @@ Feel free to [create a new pull request](https://github.com/daninfpj/awesome-pro
 ## 3M
 - [https://medium.com/@uxpin/design-with-discipline-ux-lessons-from-3m-d35f8194505a](https://medium.com/@uxpin/design-with-discipline-ux-lessons-from-3m-d35f8194505a)
 
-## Airbnbn
+## Airbnb
 - [The Way We Build](https://airbnb.design/the-way-we-build/)
 - [The Power of the Elastic Product Team — Airbnb’s First PM on How to Build Your Own](http://firstround.com/review/the-power-of-the-elastic-product-team-airbnbs-first-pm-on-how-to-build-your-own/)
 
