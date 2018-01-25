@@ -54,6 +54,9 @@ Feel free to [create a new pull request](https://github.com/daninfpj/awesome-pro
 - [How to Work with Designers](https://medium.com/the-year-of-the-looking-glass/how-to-work-with-designers-6c975dede146)
 - [Building Design Collaboration Into Your Workflow](https://medium.com/@tannerc/building-design-collaboration-into-your-workflow-1e1c683ffcb2)
 
+## Front
+- [When “gut feelings” aren’t enough: using data to plan your product roadmap](https://medium.com/wavelength/when-gut-feelings-arent-enough-using-data-to-plan-your-product-roadmap-5d3a7f953f21)
+
 ## FullStack Labs
 - [Playbook](https://www.fullstacklabs.co/playbook)
 
