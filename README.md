@@ -40,6 +40,7 @@ Feel free to [create a new pull request](https://github.com/daninfpj/awesome-pro
 
 ## Drift
 - [How We Build Products At Drift (The Burndown Framework)](https://seekingwisdom.io/how-we-build-products-at-drift-7024357d953b)
+- [Secrets to Creating a Customer Driven Product Machine](https://blog.drift.com/customer-driven/)
 
 ## Etsy
 - [My Design Process, Part 1](http://blog.capwatkins.com/my-design-process-part-1)
