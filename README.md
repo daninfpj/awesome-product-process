@@ -85,6 +85,7 @@ Feel free to [create a new pull request](https://github.com/daninfpj/awesome-pro
 ## Hubspot
 - [Customer-Driven Product Development: Understanding the real problem](https://product.hubspot.com/blog/customer-driven-product-development-understanding-what-the-customer-really-wants)
 - [The Design Process That Helped Us Ship a New Product in 11 Weeks](https://medium.com/hubspot-product/the-design-process-that-helped-us-ship-a-new-product-in-11-weeks-c601a08a3f3d)
+- [What does a Product Manager do at HubSpot](https://product.hubspot.com/blog/what-does-a-product-manager-do-at-hubspot)
 
 ## Intercom
 - [Lessons learned from scaling a product team](https://blog.intercom.com/how-we-build-software/)
