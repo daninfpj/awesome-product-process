@@ -128,7 +128,7 @@ Feel free to [create a new pull request](https://github.com/daninfpj/awesome-pro
 - [How Spotify builds products](https://www.youtube.com/watch?v=R2o-Xm3UVjs&index=2&list=LLibABDegg9ovGuOEcHGALRA) ([Slides](https://www.slideshare.net/ssuser6cf9c3/how-spotifybuildsproducts))
 
 ## Sumo Logic
-- [https://medium.com/@uxpin/how-swarm-design-transforms-enterprise-ux-2cafc6f7f95b](https://medium.com/@uxpin/how-swarm-design-transforms-enterprise-ux-2cafc6f7f95b)
+- [How “Swarm Design” Transforms Enterprise UX](https://medium.com/@uxpin/how-swarm-design-transforms-enterprise-ux-2cafc6f7f95b)
 
 ## Thoughtbot
 - [Playbook](https://thoughtbot.com/playbook)
