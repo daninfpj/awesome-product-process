@@ -20,6 +20,7 @@ Feel free to [create a new pull request](https://github.com/daninfpj/awesome-pro
 - [https://medium.com/@uxpin/how-autodesk-tackles-ux-design-challenges-c5d04264386b](https://medium.com/@uxpin/how-autodesk-tackles-ux-design-challenges-c5d04264386b)
 
 ## Atlassian
+- [The Atlassian Team Playbook](https://www.atlassian.com/team-playbook)
 - [Inside Atlassian’s Design Process: The Power of Autonomous Teams](https://medium.com/@uxpin/inside-atlassians-design-process-the-power-of-autonomous-teams-2acfa5036f34)
 - [Working as a cross-functional product team](https://www.atlassian.com/team-playbook/examples/cross-functional-product-team)
 
